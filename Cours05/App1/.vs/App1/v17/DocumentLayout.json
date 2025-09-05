@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours05\\App1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{794C308E-F065-4CAA-84B1-A013F904AC5D}|Ex4\\Ex4.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours05\\app1\\ex4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794C308E-F065-4CAA-84B1-A013F904AC5D}|Ex4\\Ex4.csproj|solutionrelative:ex4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794C308E-F065-4CAA-84B1-A013F904AC5D}|Ex4\\Ex4.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours05\\app1\\ex4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{794C308E-F065-4CAA-84B1-A013F904AC5D}|Ex4\\Ex4.csproj|solutionrelative:ex4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours05\\App1\\Ex4\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Ex4\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours05\\App1\\Ex4\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Ex4\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wCUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:34:53.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours05\\App1\\Ex4\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Ex4\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours05\\App1\\Ex4\\MainWindow.xaml",
+              "RelativeToolTip": "Ex4\\MainWindow.xaml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-05T14:34:26.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

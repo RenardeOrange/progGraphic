@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window
+    x:Class="Ex1.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Ex1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Title="Ex1">
+
+    <Window.SystemBackdrop>
+        <MicaBackdrop />
+    </Window.SystemBackdrop>
+
+    <StackPanel>
+        <StackPanel>
+            <TextBlock x:Name="tblLab" Text="Resultat Lab" FontSize="24"/>
+            <TextBox x:Name="tbxLab" Width="200" HorizontalAlignment="Left" PlaceholderText="0-100"/>
+        </StackPanel>
+        
+        <StackPanel>
+            <TextBlock x:Name="tblExamMiSession" Text="Resultat Examen mi-session" FontSize="24"/>
+            <TextBox x:Name="tbxExamMiSession" Width="200" HorizontalAlignment="Left" PlaceholderText="0-100"/>
+        </StackPanel>
+        
+        <StackPanel>
+            <TextBlock x:Name="tblExamenFinal" Text="Resultat Examen final" FontSize="24"/>
+            <TextBox x:Name="tbxExamenFinal" Width="200" HorizontalAlignment="Left" PlaceholderText="0-100"/>
+        </StackPanel>
+
+        <Button x:Name="btnCalcul" Click="btnCalcul_Click" Content="Note de session"/>
+        <TextBlock x:Name="tblNoteFinal" Text="" FontSize="18"/>
+    </StackPanel>
+</Window>
