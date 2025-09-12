@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window
+    x:Class="Ex1.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Ex1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Title="Ex1">
+
+    <Window.SystemBackdrop>
+        <MicaBackdrop />
+    </Window.SystemBackdrop>
+
+    <StackPanel Orientation="Vertical" Padding="20" Spacing="20" Background="LightGray">
+        <TextBox x:Name="tbxName" Header="Nom" Width="200" HorizontalAlignment="Left"/>
+        <NumberBox x:Name="nbAge" Header="Age" Minimum="0" Value="0" Maximum="150"  SpinButtonPlacementMode="Inline" SmallChange="1" Width="200" HorizontalAlignment="Left"/>
+        <PasswordBox x:Name="pbPassword" Header="Mot de passe" IsPasswordRevealButtonEnabled="True" Width="200" HorizontalAlignment="Left"/>
+        <ComboBox x:Name="cmbSub" Header="Type d'abonnement">
+            <x:String>Mensuel</x:String>
+            <x:String>Trimestriel</x:String>
+            <x:String>Annuel</x:String>
+        </ComboBox>
+        <ToggleSwitch x:Name="swActif" OnContent="Abonnement actif" OffContent="Abonnement inactif"/>
+        <Button x:Name="btnSubmit" Content="Valider" Click="btnSubmit_Click"/>
+        <TextBlock x:Name="tblResult" Text="" FontWeight="Bold" FontSize="16"/>
+    </StackPanel>
+</Window>
