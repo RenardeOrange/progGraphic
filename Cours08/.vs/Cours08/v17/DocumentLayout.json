@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{849B423E-6C36-484B-A726-82FA9DA16152}|Cours08\\Cours08.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours08\\cours08\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{849B423E-6C36-484B-A726-82FA9DA16152}|Cours08\\Cours08.csproj|solutionrelative:cours08\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{849B423E-6C36-484B-A726-82FA9DA16152}|Cours08\\Cours08.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours08\\cours08\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{849B423E-6C36-484B-A726-82FA9DA16152}|Cours08\\Cours08.csproj|solutionrelative:cours08\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{849B423E-6C36-484B-A726-82FA9DA16152}|Cours08\\Cours08.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours08\\cours08\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{849B423E-6C36-484B-A726-82FA9DA16152}|Cours08\\Cours08.csproj|solutionrelative:cours08\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours08\\Cours08\\Client.cs",
+              "RelativeDocumentMoniker": "Cours08\\Client.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours08\\Cours08\\Client.cs",
+              "RelativeToolTip": "Cours08\\Client.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T17:26:46.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours08\\Cours08\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Cours08\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours08\\Cours08\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Cours08\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAtwFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T17:14:53.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours08\\Cours08\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Cours08\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours08\\Cours08\\MainWindow.xaml",
+              "RelativeToolTip": "Cours08\\MainWindow.xaml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADMAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-15T17:14:47.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
