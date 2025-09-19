@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours09 - Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D17D4185-9E68-4DBE-909E-D8C1004E9B4E}|Ex2\\Ex2.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours09 - lab1\\ex2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D17D4185-9E68-4DBE-909E-D8C1004E9B4E}|Ex2\\Ex2.csproj|solutionrelative:ex2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17D4185-9E68-4DBE-909E-D8C1004E9B4E}|Ex2\\Ex2.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours09 - lab1\\ex2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17D4185-9E68-4DBE-909E-D8C1004E9B4E}|Ex2\\Ex2.csproj|solutionrelative:ex2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17D4185-9E68-4DBE-909E-D8C1004E9B4E}|Ex2\\Ex2.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours09 - lab1\\ex2\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17D4185-9E68-4DBE-909E-D8C1004E9B4E}|Ex2\\Ex2.csproj|solutionrelative:ex2\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours09 - Lab1\\Ex2\\Film.cs",
+              "RelativeDocumentMoniker": "Ex2\\Film.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours09 - Lab1\\Ex2\\Film.cs",
+              "RelativeToolTip": "Ex2\\Film.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:15:48.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours09 - Lab1\\Ex2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Ex2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours09 - Lab1\\Ex2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Ex2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwCUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:10:57.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours09 - Lab1\\Ex2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Ex2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours09 - Lab1\\Ex2\\MainWindow.xaml",
+              "RelativeToolTip": "Ex2\\MainWindow.xaml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-19T13:03:04.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
