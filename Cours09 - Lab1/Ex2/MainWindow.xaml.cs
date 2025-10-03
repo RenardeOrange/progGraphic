@@ -28,7 +28,7 @@ namespace Ex2
         {
             InitializeComponent();
         }
-
+        
         private void lvFilms_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             Film film = (Film) lvFilms.SelectedItem;

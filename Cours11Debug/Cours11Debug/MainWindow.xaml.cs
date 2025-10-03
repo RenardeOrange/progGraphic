@@ -27,5 +27,10 @@ namespace Cours11Debug
         {
             InitializeComponent();
         }
+
+        private void btnAjouter_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{605A6D9C-2A58-4610-B42C-F880FF6B3A21}|Cours11Debug\\Cours11Debug.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours11debug\\cours11debug\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{605A6D9C-2A58-4610-B42C-F880FF6B3A21}|Cours11Debug\\Cours11Debug.csproj|solutionrelative:cours11debug\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605A6D9C-2A58-4610-B42C-F880FF6B3A21}|Cours11Debug\\Cours11Debug.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours11debug\\cours11debug\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605A6D9C-2A58-4610-B42C-F880FF6B3A21}|Cours11Debug\\Cours11Debug.csproj|solutionrelative:cours11debug\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours11Debug\\Cours11Debug\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Cours11Debug\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours11Debug\\Cours11Debug\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Cours11Debug\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T12:38:48.625Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Cours11Debug\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours11Debug\\Cours11Debug\\MainWindow.xaml",
               "RelativeToolTip": "Cours11Debug\\MainWindow.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-09-29T18:40:54.829Z",
               "EditorCaption": ""

@@ -24,7 +24,16 @@
         </Grid.ColumnDefinitions>
 
         <StackPanel Orientation="Vertical" Margin="10">
-            
+            <TextBox x:Name="tbxTitre" Width="200" Margin="0,0,0,10" Header="Titre de la recette"/>
+            <ComboBox x:Name="cmbCat" SelectedIndex="0" Header="Catégorie">
+                <x:String>Entrée</x:String>
+                <x:String>Plat principal</x:String>
+                <x:String>Dessert</x:String>
+            </ComboBox>
+            <TextBox x:Name="tbxDuree" Width="200" Margin="0,0,0,10" Header="Durée de la recette"/>
+            <TextBox x:Name="tbxUrl" Width="200" Margin="0,0,0,10" Header="URL de la photo"/>
+            <TextBox x:Name="tbxDesc" Height="500" Width="200" AcceptsReturn="True" TextWrapping="Wrap" ScrollViewer.VerticalScrollBarVisibility="Auto" Header="Description"/>
+            <Button x:Name="btnAjouter" Width="200" Click="btnAjouter_Click" Background="LightGreen">Ajouter</Button>
         </StackPanel>
     </Grid>
 </Window>

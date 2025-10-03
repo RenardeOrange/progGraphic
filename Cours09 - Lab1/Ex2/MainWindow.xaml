@@ -12,7 +12,7 @@
     <Window.SystemBackdrop>
         <MicaBackdrop />
     </Window.SystemBackdrop>
-
+<!--
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
@@ -31,11 +31,66 @@
             <Button x:Name="btnAjout" Content="Ajouter le film" Margin="10" Click="btnAjout_Click"/>
         </StackPanel>
 
-        <ListView x:Name="lvFilms" Height="500" Grid.Row="1" SelectionChanged="lvFilms_SelectionChanged"/>
+        <GridView x:Name="lvFilms" Height="500" Grid.Row="1" SelectionChanged="lvFilms_SelectionChanged"/>
 
         <StackPanel Orientation="Vertical" Grid.Row="1" Grid.Column="1" Margin="10" Background="AliceBlue">
             <Image x:Name="imgFilm" Height="200" Margin="10" HorizontalAlignment="Left" VerticalAlignment="Top"/>
             <TextBlock x:Name="tblInfoTitre" FontSize="20" TextAlignment="Start"/>
         </StackPanel>
+    </Grid>
+    -->
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Orientation="Vertical" Margin="10" Background="AliceBlue">
+            <TextBox x:Name="tbxTitre" Width="200" Margin="0,0,0,10" Header="Titre de la recette"/>
+            <ComboBox x:Name="cmbCat" SelectedIndex="0" Header="Catégorie">
+                <x:String>Entrée</x:String>
+                <x:String>Plat principal</x:String>
+                <x:String>Dessert</x:String>
+            </ComboBox>
+            <TextBox x:Name="tbxDuree" Width="200" Margin="0,0,0,10" Header="Durée de la recette"/>
+            <TextBox x:Name="tbxUrl" Width="200" Margin="0,0,0,10" Header="URL de la photo"/>
+            <TextBox x:Name="tbxDesc" Height="500" Width="200" AcceptsReturn="True" TextWrapping="Wrap" ScrollViewer.VerticalScrollBarVisibility="Auto" Header="Description"/>
+            <Button x:Name="btnAjouter" Width="200" Click="btnAjouter_Click" Background="LightGreen">Ajouter</Button>
+        </StackPanel>
+
+        <TextBox x:Name="tbxListe" Text="Liste des recettes" FontSize="40" Grid.Column="1"/>
+
+        <GridView x:Name="lvClients">
+            <GridView.ItemTemplate>
+                <DataTemplate x:DataType="local:Recette">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="100"/>
+                            <ColumnDefinition Width="600"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Image Source="{x:Bind UrlImage, Mode='OneWay'}" Height="300" Width="100" Margin="5"/>
+
+                        <StackPanel Orientation="Vertical" Spacing="10" Background="AliceBlue" Margin="5" Padding="5">
+                            <TextBlock Text="{x:Bind Titre, Mode='OneWay'}" FontSize="30" Foreground="GreenYellow"/>
+                            <StackPanel>
+                                <TextBlock Text="{x:Bind Categorie, Mode='OneWay'}" FontSize="10"/>
+                                <TextBlock Text="{x:Bind Duree, Mode='OneWay'}" FontSize="10"/>
+                            </StackPanel>
+                            <TextBlock Text="{x:Bind Description, Mode='OneWay'}" TextWrapping="Wrap" FontSize="15"/>
+                            <Button Click="Button_Click" HorizontalAlignment="Center">
+                                <SymbolIcon Symbol="Delete" />
+                            </Button>
+                        </StackPanel>
+                    </Grid>
+                    
+                </DataTemplate>
+            </GridView.ItemTemplate>
+        </GridView>
+
     </Grid>
 </Window>
