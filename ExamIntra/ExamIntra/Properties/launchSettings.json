@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ExamIntra (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ExamIntra (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

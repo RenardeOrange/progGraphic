@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours09 - Lab1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DC8C1DA3-E97C-4B21-8E28-B83FAC81306C}|Cours09 - Lab1\\Cours09 - Lab1.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours09 - lab1\\cours09 - lab1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8C1DA3-E97C-4B21-8E28-B83FAC81306C}|Cours09 - Lab1\\Cours09 - Lab1.csproj|solutionrelative:cours09 - lab1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DC8C1DA3-E97C-4B21-8E28-B83FAC81306C}|Cours09 - Lab1\\Cours09 - Lab1.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours09 - lab1\\cours09 - lab1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{DC8C1DA3-E97C-4B21-8E28-B83FAC81306C}|Cours09 - Lab1\\Cours09 - Lab1.csproj|solutionrelative:cours09 - lab1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC8C1DA3-E97C-4B21-8E28-B83FAC81306C}|Cours09 - Lab1\\Cours09 - Lab1.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours09 - lab1\\cours09 - lab1\\recette.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC8C1DA3-E97C-4B21-8E28-B83FAC81306C}|Cours09 - Lab1\\Cours09 - Lab1.csproj|solutionrelative:cours09 - lab1\\recette.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC8C1DA3-E97C-4B21-8E28-B83FAC81306C}|Cours09 - Lab1\\Cours09 - Lab1.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours09 - lab1\\cours09 - lab1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC8C1DA3-E97C-4B21-8E28-B83FAC81306C}|Cours09 - Lab1\\Cours09 - Lab1.csproj|solutionrelative:cours09 - lab1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Recette.cs",
               "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours09 - Lab1\\Cours09 - Lab1\\Recette.cs",
               "RelativeDocumentMoniker": "Cours09 - Lab1\\Recette.cs",
               "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours09 - Lab1\\Cours09 - Lab1\\Recette.cs",
               "RelativeToolTip": "Cours09 - Lab1\\Recette.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAgwEEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-03T14:40:01.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours09 - Lab1\\Cours09 - Lab1\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Cours09 - Lab1\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours09 - Lab1\\Cours09 - Lab1\\MainWindow.xaml",
               "RelativeToolTip": "Cours09 - Lab1\\MainWindow.xaml",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEoAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-10-03T13:15:40.976Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours09 - Lab1\\Cours09 - Lab1\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Cours09 - Lab1\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours09 - Lab1\\Cours09 - Lab1\\MainWindow.xaml.cs",
               "RelativeToolTip": "Cours09 - Lab1\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAqwI0AAABaAAAAAAAAAA==",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAqwIcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-03T12:46:03.719Z",
               "EditorCaption": ""
