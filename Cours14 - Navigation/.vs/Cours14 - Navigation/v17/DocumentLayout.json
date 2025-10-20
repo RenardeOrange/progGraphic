@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours14 - Navigation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E2A2BC-F835-40C4-B899-EE919C699895}|Cours14 - Navigation\\Cours14 - Navigation.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours14 - navigation\\cours14 - navigation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D8E2A2BC-F835-40C4-B899-EE919C699895}|Cours14 - Navigation\\Cours14 - Navigation.csproj|solutionrelative:cours14 - navigation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours14 - Navigation\\Cours14 - Navigation\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Cours14 - Navigation\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours14 - Navigation\\Cours14 - Navigation\\MainWindow.xaml",
+              "RelativeToolTip": "Cours14 - Navigation\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-20T18:30:04.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
