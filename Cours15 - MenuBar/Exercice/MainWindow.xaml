@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window
+    x:Class="Exercice.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Exercice"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Title="Exercice">
+
+    <Window.SystemBackdrop>
+        <MicaBackdrop />
+    </Window.SystemBackdrop>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <MenuBar Grid.Row="0">
+            <MenuBarItem Title="Fichier">
+                <MenuFlyoutItem Text="Importer" Click="MenuFlyoutItem_Click"  Tag="importer"/>
+                <MenuFlyoutItem Text="Exporter" Click="MenuFlyoutItem_Click" Tag="exporter"/>
+                <MenuFlyoutSeparator />
+                <MenuFlyoutItem Text="Quitter" Click="MenuFlyoutItem_Click" Tag="quitter"/>
+            </MenuBarItem>
+        </MenuBar>
+
+        <NavigationView Grid.Row="1" x:Name="navView" PaneDisplayMode="Left" SelectionChanged="navView_SelectionChanged" IsSettingsVisible="False" IsBackButtonVisible="Collapsed">
+            <NavigationView.MenuItems>
+                <NavigationViewItemHeader Content="Produits"/>
+                <NavigationViewItem Content="Voir les produits" Icon="Shop" Tag="listProduits"/>
+                <NavigationViewItem Content="Créer un produit" Icon="Add" Tag="ajouterProduit"/>
+                <NavigationViewItemHeader Content="Commandes"/>
+                <NavigationViewItem Content="Afficher les commandes" Icon="PhoneBook" Tag="listCommandes"/>
+                <NavigationViewItem Content="Ajouter une commande" Icon="AddFriend" Tag="ajouterCommande"/>
+            </NavigationView.MenuItems>
+            <Frame x:Name="mainFrame"/>
+        </NavigationView>
+    </Grid>
+</Window>

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Cours15 - MenuBar (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Cours15 - MenuBar (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
