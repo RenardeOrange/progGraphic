@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours15 - MenuBar\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FAA64AB4-B1A1-4552-9794-975DED3DE084}|Exercice\\Exercice.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours15 - menubar\\exercice\\pages\\listcommandes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FAA64AB4-B1A1-4552-9794-975DED3DE084}|Exercice\\Exercice.csproj|solutionrelative:exercice\\pages\\listcommandes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA64AB4-B1A1-4552-9794-975DED3DE084}|Exercice\\Exercice.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours15 - menubar\\exercice\\class\\singletonproduits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAA64AB4-B1A1-4552-9794-975DED3DE084}|Exercice\\Exercice.csproj|solutionrelative:exercice\\class\\singletonproduits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA64AB4-B1A1-4552-9794-975DED3DE084}|Exercice\\Exercice.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours15 - menubar\\exercice\\class\\singletoncommandes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAA64AB4-B1A1-4552-9794-975DED3DE084}|Exercice\\Exercice.csproj|solutionrelative:exercice\\class\\singletoncommandes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FAA64AB4-B1A1-4552-9794-975DED3DE084}|Exercice\\Exercice.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours15 - menubar\\exercice\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAA64AB4-B1A1-4552-9794-975DED3DE084}|Exercice\\Exercice.csproj|solutionrelative:exercice\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAA64AB4-B1A1-4552-9794-975DED3DE084}|Exercice\\Exercice.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours15 - menubar\\exercice\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FAA64AB4-B1A1-4552-9794-975DED3DE084}|Exercice\\Exercice.csproj|solutionrelative:exercice\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAA64AB4-B1A1-4552-9794-975DED3DE084}|Exercice\\Exercice.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours15 - menubar\\exercice\\class\\navdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAA64AB4-B1A1-4552-9794-975DED3DE084}|Exercice\\Exercice.csproj|solutionrelative:exercice\\class\\navdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAA64AB4-B1A1-4552-9794-975DED3DE084}|Exercice\\Exercice.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours15 - menubar\\exercice\\class\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAA64AB4-B1A1-4552-9794-975DED3DE084}|Exercice\\Exercice.csproj|solutionrelative:exercice\\class\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAA64AB4-B1A1-4552-9794-975DED3DE084}|Exercice\\Exercice.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours15 - menubar\\exercice\\class\\commande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAA64AB4-B1A1-4552-9794-975DED3DE084}|Exercice\\Exercice.csproj|solutionrelative:exercice\\class\\commande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Commande.cs",
-              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours15 - MenuBar\\Exercice\\Class\\Commande.cs",
-              "RelativeDocumentMoniker": "Exercice\\Class\\Commande.cs",
-              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours15 - MenuBar\\Exercice\\Class\\Commande.cs",
-              "RelativeToolTip": "Exercice\\Class\\Commande.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T14:19:10.965Z",
+              "DocumentIndex": 0,
+              "Title": "listCommandes.xaml",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours15 - MenuBar\\Exercice\\Pages\\listCommandes.xaml",
+              "RelativeDocumentMoniker": "Exercice\\Pages\\listCommandes.xaml",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours15 - MenuBar\\Exercice\\Pages\\listCommandes.xaml",
+              "RelativeToolTip": "Exercice\\Pages\\listCommandes.xaml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T18:43:40.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Produit.cs",
-              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours15 - MenuBar\\Exercice\\Class\\Produit.cs",
-              "RelativeDocumentMoniker": "Exercice\\Class\\Produit.cs",
-              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours15 - MenuBar\\Exercice\\Class\\Produit.cs",
-              "RelativeToolTip": "Exercice\\Class\\Produit.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T14:15:56.129Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours15 - MenuBar\\Exercice\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Exercice\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours15 - MenuBar\\Exercice\\MainWindow.xaml.cs",
               "RelativeToolTip": "Exercice\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAowFQAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T14:11:07.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours15 - MenuBar\\Exercice\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Exercice\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours15 - MenuBar\\Exercice\\MainWindow.xaml",
-              "RelativeToolTip": "Exercice\\MainWindow.xaml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-24T14:11:02.825Z",
+              "DocumentIndex": 2,
+              "Title": "SingletonCommandes.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours15 - MenuBar\\Exercice\\Class\\SingletonCommandes.cs",
+              "RelativeDocumentMoniker": "Exercice\\Class\\SingletonCommandes.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours15 - MenuBar\\Exercice\\Class\\SingletonCommandes.cs",
+              "RelativeToolTip": "Exercice\\Class\\SingletonCommandes.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T14:05:34.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "navData.cs",
-              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours15 - MenuBar\\Exercice\\Class\\navData.cs",
-              "RelativeDocumentMoniker": "Exercice\\Class\\navData.cs",
-              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours15 - MenuBar\\Exercice\\Class\\navData.cs",
-              "RelativeToolTip": "Exercice\\Class\\navData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "SingletonProduits.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours15 - MenuBar\\Exercice\\Class\\SingletonProduits.cs",
+              "RelativeDocumentMoniker": "Exercice\\Class\\SingletonProduits.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours15 - MenuBar\\Exercice\\Class\\SingletonProduits.cs",
+              "RelativeToolTip": "Exercice\\Class\\SingletonProduits.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAACzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T14:05:34.665Z",
+              "WhenOpened": "2025-10-27T18:06:57.513Z",
               "EditorCaption": ""
             }
           ]

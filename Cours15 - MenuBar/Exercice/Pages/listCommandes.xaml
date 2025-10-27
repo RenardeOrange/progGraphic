@@ -5,10 +5,47 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:Exercice.Pages"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:class="using:Exercice.Class"
     mc:Ignorable="d">
 
-    <Grid>
-        <TextBlock Text="Liste des commandes" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="48"/>
-    </Grid>
+    <StackPanel>
+        <TextBlock Text="Liste des Commandes" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="48"/>
+        <GridView x:Name="lvCommandes">
+            <GridView.ItemTemplate>
+                <DataTemplate x:DataType="class:Commande">
+                    <Grid Background="AliceBlue" >
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <TextBlock Text="{x:Bind NomClient, Mode=OneWay}" FontSize="40"/>
+                        
+                        <StackPanel Orientation="Horizontal" Grid.Column="1" HorizontalAlignment="Right" Spacing="20">
+                            <TextBlock Text="{x:Bind Terminee, Mode=OneWay}" FontSize="40"/>
+                            <Button x:Name="btnEdit" Click="btnEdit_Click" HorizontalAlignment="Center" Background="Gold">
+                                <SymbolIcon Symbol="Edit" />
+                            </Button>
+                            <Button x:Name="btnDel" Click="btnDel_Click" HorizontalAlignment="Center" Background="Orange">
+                                <SymbolIcon Symbol="Delete" />
+                            </Button>
+                        </StackPanel>
+
+                        <StackPanel Grid.Row="1" Grid.ColumnSpan="2" Background="WhiteSmoke" Spacing="20" Margin="20" VerticalAlignment="Top">
+                            <TextBlock Text="{x:Bind Id, Mode=OneWay}" FontSize="20"/>
+                            <TextBlock Text="{x:Bind Date, Mode=OneWay}" FontSize="20"/>
+                            <TextBlock Text="{x:Bind CourrielClient, Mode=OneWay}" FontSize="20"/>
+                        </StackPanel>
+
+
+                    </Grid>
+                </DataTemplate>
+            </GridView.ItemTemplate>
+        </GridView>
+    </StackPanel>
 </Page>

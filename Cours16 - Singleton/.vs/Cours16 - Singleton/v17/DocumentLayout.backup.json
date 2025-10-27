@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours16 - Singleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D746A0FF-7DCC-4F39-8906-D9FDED29FA3D}|Cours16 - Singleton\\Cours16 - Singleton.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours16 - singleton\\cours16 - singleton\\pages\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D746A0FF-7DCC-4F39-8906-D9FDED29FA3D}|Cours16 - Singleton\\Cours16 - Singleton.csproj|solutionrelative:cours16 - singleton\\pages\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D746A0FF-7DCC-4F39-8906-D9FDED29FA3D}|Cours16 - Singleton\\Cours16 - Singleton.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours16 - singleton\\cours16 - singleton\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D746A0FF-7DCC-4F39-8906-D9FDED29FA3D}|Cours16 - Singleton\\Cours16 - Singleton.csproj|solutionrelative:cours16 - singleton\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D746A0FF-7DCC-4F39-8906-D9FDED29FA3D}|Cours16 - Singleton\\Cours16 - Singleton.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours16 - singleton\\cours16 - singleton\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D746A0FF-7DCC-4F39-8906-D9FDED29FA3D}|Cours16 - Singleton\\Cours16 - Singleton.csproj|solutionrelative:cours16 - singleton\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D746A0FF-7DCC-4F39-8906-D9FDED29FA3D}|Cours16 - Singleton\\Cours16 - Singleton.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours16 - singleton\\cours16 - singleton\\pages\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D746A0FF-7DCC-4F39-8906-D9FDED29FA3D}|Cours16 - Singleton\\Cours16 - Singleton.csproj|solutionrelative:cours16 - singleton\\pages\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D746A0FF-7DCC-4F39-8906-D9FDED29FA3D}|Cours16 - Singleton\\Cours16 - Singleton.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours16 - singleton\\cours16 - singleton\\class\\singletondemo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D746A0FF-7DCC-4F39-8906-D9FDED29FA3D}|Cours16 - Singleton\\Cours16 - Singleton.csproj|solutionrelative:cours16 - singleton\\class\\singletondemo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D746A0FF-7DCC-4F39-8906-D9FDED29FA3D}|Cours16 - Singleton\\Cours16 - Singleton.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours16 - singleton\\cours16 - singleton\\pages\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D746A0FF-7DCC-4F39-8906-D9FDED29FA3D}|Cours16 - Singleton\\Cours16 - Singleton.csproj|solutionrelative:cours16 - singleton\\pages\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D746A0FF-7DCC-4F39-8906-D9FDED29FA3D}|Cours16 - Singleton\\Cours16 - Singleton.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours16 - singleton\\cours16 - singleton\\pages\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D746A0FF-7DCC-4F39-8906-D9FDED29FA3D}|Cours16 - Singleton\\Cours16 - Singleton.csproj|solutionrelative:cours16 - singleton\\pages\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours16 - Singleton\\Cours16 - Singleton\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Cours16 - Singleton\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours16 - Singleton\\Cours16 - Singleton\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Cours16 - Singleton\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T17:42:03.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SingletonDemo1.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours16 - Singleton\\Cours16 - Singleton\\Class\\SingletonDemo1.cs",
+              "RelativeDocumentMoniker": "Cours16 - Singleton\\Class\\SingletonDemo1.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours16 - Singleton\\Cours16 - Singleton\\Class\\SingletonDemo1.cs",
+              "RelativeToolTip": "Cours16 - Singleton\\Class\\SingletonDemo1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T17:29:55.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Page1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours16 - Singleton\\Cours16 - Singleton\\Pages\\Page1.xaml.cs",
+              "RelativeDocumentMoniker": "Cours16 - Singleton\\Pages\\Page1.xaml.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours16 - Singleton\\Cours16 - Singleton\\Pages\\Page1.xaml.cs",
+              "RelativeToolTip": "Cours16 - Singleton\\Pages\\Page1.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T17:28:38.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Page2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours16 - Singleton\\Cours16 - Singleton\\Pages\\Page2.xaml.cs",
+              "RelativeDocumentMoniker": "Cours16 - Singleton\\Pages\\Page2.xaml.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours16 - Singleton\\Cours16 - Singleton\\Pages\\Page2.xaml.cs",
+              "RelativeToolTip": "Cours16 - Singleton\\Pages\\Page2.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T17:25:22.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Page2.xaml",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours16 - Singleton\\Cours16 - Singleton\\Pages\\Page2.xaml",
+              "RelativeDocumentMoniker": "Cours16 - Singleton\\Pages\\Page2.xaml",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours16 - Singleton\\Cours16 - Singleton\\Pages\\Page2.xaml",
+              "RelativeToolTip": "Cours16 - Singleton\\Pages\\Page2.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T17:23:13.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours16 - Singleton\\Cours16 - Singleton\\Pages\\Page1.xaml",
+              "RelativeDocumentMoniker": "Cours16 - Singleton\\Pages\\Page1.xaml",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours16 - Singleton\\Cours16 - Singleton\\Pages\\Page1.xaml",
+              "RelativeToolTip": "Cours16 - Singleton\\Pages\\Page1.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T17:22:53.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours16 - Singleton\\Cours16 - Singleton\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Cours16 - Singleton\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours16 - Singleton\\Cours16 - Singleton\\MainWindow.xaml",
+              "RelativeToolTip": "Cours16 - Singleton\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T17:22:08.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -246,13 +246,13 @@ namespace Exercice.Exercice_XamlTypeInfo
             _typeNameTable[16] = "Microsoft.UI.Xaml.Controls.NavigationView";
             _typeNameTable[17] = "Microsoft.UI.Xaml.Controls.ContentControl";
             _typeNameTable[18] = "Microsoft.UI.Xaml.Controls.NavigationViewPaneDisplayMode";
-            _typeNameTable[19] = "System.Collections.Generic.IList`1<Object>";
-            _typeNameTable[20] = "Microsoft.UI.Xaml.Controls.AutoSuggestBox";
-            _typeNameTable[21] = "Double";
-            _typeNameTable[22] = "Microsoft.UI.Xaml.UIElement";
-            _typeNameTable[23] = "Microsoft.UI.Xaml.Controls.NavigationViewDisplayMode";
-            _typeNameTable[24] = "Microsoft.UI.Xaml.DataTemplate";
-            _typeNameTable[25] = "Microsoft.UI.Xaml.Controls.NavigationViewBackButtonVisible";
+            _typeNameTable[19] = "Microsoft.UI.Xaml.Controls.NavigationViewBackButtonVisible";
+            _typeNameTable[20] = "System.Collections.Generic.IList`1<Object>";
+            _typeNameTable[21] = "Microsoft.UI.Xaml.Controls.AutoSuggestBox";
+            _typeNameTable[22] = "Double";
+            _typeNameTable[23] = "Microsoft.UI.Xaml.UIElement";
+            _typeNameTable[24] = "Microsoft.UI.Xaml.Controls.NavigationViewDisplayMode";
+            _typeNameTable[25] = "Microsoft.UI.Xaml.DataTemplate";
             _typeNameTable[26] = "Microsoft.UI.Xaml.Style";
             _typeNameTable[27] = "Microsoft.UI.Xaml.Controls.StyleSelector";
             _typeNameTable[28] = "Microsoft.UI.Xaml.Controls.DataTemplateSelector";
@@ -298,13 +298,13 @@ namespace Exercice.Exercice_XamlTypeInfo
             _typeTable[16] = typeof(global::Microsoft.UI.Xaml.Controls.NavigationView);
             _typeTable[17] = typeof(global::Microsoft.UI.Xaml.Controls.ContentControl);
             _typeTable[18] = typeof(global::Microsoft.UI.Xaml.Controls.NavigationViewPaneDisplayMode);
-            _typeTable[19] = typeof(global::System.Collections.Generic.IList<global::System.Object>);
-            _typeTable[20] = typeof(global::Microsoft.UI.Xaml.Controls.AutoSuggestBox);
-            _typeTable[21] = typeof(global::System.Double);
-            _typeTable[22] = typeof(global::Microsoft.UI.Xaml.UIElement);
-            _typeTable[23] = typeof(global::Microsoft.UI.Xaml.Controls.NavigationViewDisplayMode);
-            _typeTable[24] = typeof(global::Microsoft.UI.Xaml.DataTemplate);
-            _typeTable[25] = typeof(global::Microsoft.UI.Xaml.Controls.NavigationViewBackButtonVisible);
+            _typeTable[19] = typeof(global::Microsoft.UI.Xaml.Controls.NavigationViewBackButtonVisible);
+            _typeTable[20] = typeof(global::System.Collections.Generic.IList<global::System.Object>);
+            _typeTable[21] = typeof(global::Microsoft.UI.Xaml.Controls.AutoSuggestBox);
+            _typeTable[22] = typeof(global::System.Double);
+            _typeTable[23] = typeof(global::Microsoft.UI.Xaml.UIElement);
+            _typeTable[24] = typeof(global::Microsoft.UI.Xaml.Controls.NavigationViewDisplayMode);
+            _typeTable[25] = typeof(global::Microsoft.UI.Xaml.DataTemplate);
             _typeTable[26] = typeof(global::Microsoft.UI.Xaml.Style);
             _typeTable[27] = typeof(global::Microsoft.UI.Xaml.Controls.StyleSelector);
             _typeTable[28] = typeof(global::Microsoft.UI.Xaml.Controls.DataTemplateSelector);
@@ -389,9 +389,9 @@ namespace Exercice.Exercice_XamlTypeInfo
         private void StaticInitializer_13_IList() => global::System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor(typeof(global::System.Collections.Generic.IList<global::Microsoft.UI.Xaml.Controls.MenuFlyoutItemBase>).TypeHandle);
         private void StaticInitializer_16_NavigationView() => global::System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor(typeof(global::Microsoft.UI.Xaml.Controls.NavigationView).TypeHandle);
         private void StaticInitializer_18_NavigationViewPaneDisplayMode() => global::System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor(typeof(global::Microsoft.UI.Xaml.Controls.NavigationViewPaneDisplayMode).TypeHandle);
-        private void StaticInitializer_19_IList() => global::System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor(typeof(global::System.Collections.Generic.IList<global::System.Object>).TypeHandle);
-        private void StaticInitializer_23_NavigationViewDisplayMode() => global::System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor(typeof(global::Microsoft.UI.Xaml.Controls.NavigationViewDisplayMode).TypeHandle);
-        private void StaticInitializer_25_NavigationViewBackButtonVisible() => global::System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor(typeof(global::Microsoft.UI.Xaml.Controls.NavigationViewBackButtonVisible).TypeHandle);
+        private void StaticInitializer_19_NavigationViewBackButtonVisible() => global::System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor(typeof(global::Microsoft.UI.Xaml.Controls.NavigationViewBackButtonVisible).TypeHandle);
+        private void StaticInitializer_20_IList() => global::System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor(typeof(global::System.Collections.Generic.IList<global::System.Object>).TypeHandle);
+        private void StaticInitializer_24_NavigationViewDisplayMode() => global::System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor(typeof(global::Microsoft.UI.Xaml.Controls.NavigationViewDisplayMode).TypeHandle);
         private void StaticInitializer_29_NavigationViewOverflowLabelMode() => global::System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor(typeof(global::Microsoft.UI.Xaml.Controls.NavigationViewOverflowLabelMode).TypeHandle);
         private void StaticInitializer_30_NavigationViewSelectionFollowsFocus() => global::System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor(typeof(global::Microsoft.UI.Xaml.Controls.NavigationViewSelectionFollowsFocus).TypeHandle);
         private void StaticInitializer_31_NavigationViewShoulderNavigationEnabled() => global::System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor(typeof(global::Microsoft.UI.Xaml.Controls.NavigationViewShoulderNavigationEnabled).TypeHandle);
@@ -426,7 +426,7 @@ namespace Exercice.Exercice_XamlTypeInfo
             var newItem = (global::Microsoft.UI.Xaml.Controls.MenuFlyoutItemBase)item;
             collection.Add(newItem);
         }
-        private void VectorAdd_19_IList(object instance, object item)
+        private void VectorAdd_20_IList(object instance, object item)
         {
             var collection = (global::System.Collections.Generic.ICollection<global::System.Object>)instance;
             var newItem = (global::System.Object)item;
@@ -555,7 +555,7 @@ namespace Exercice.Exercice_XamlTypeInfo
                 userType.StaticInitializer = StaticInitializer_16_NavigationView;
                 userType.AddMemberName("PaneDisplayMode");
                 userType.AddMemberName("IsSettingsVisible");
-                userType.AddMemberName("IsBackEnabled");
+                userType.AddMemberName("IsBackButtonVisible");
                 userType.AddMemberName("MenuItems");
                 userType.AddMemberName("AlwaysShowHeader");
                 userType.AddMemberName("AutoSuggestBox");
@@ -568,7 +568,7 @@ namespace Exercice.Exercice_XamlTypeInfo
                 userType.AddMemberName("FooterMenuItemsSource");
                 userType.AddMemberName("Header");
                 userType.AddMemberName("HeaderTemplate");
-                userType.AddMemberName("IsBackButtonVisible");
+                userType.AddMemberName("IsBackEnabled");
                 userType.AddMemberName("IsPaneOpen");
                 userType.AddMemberName("IsPaneToggleButtonVisible");
                 userType.AddMemberName("IsPaneVisible");
@@ -608,46 +608,46 @@ namespace Exercice.Exercice_XamlTypeInfo
                 xamlType = userType;
                 break;
 
-            case 19:   //  System.Collections.Generic.IList`1<Object>
+            case 19:   //  Microsoft.UI.Xaml.Controls.NavigationViewBackButtonVisible
+                userType = new global::Exercice.Exercice_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("System.Enum"));
+                userType.StaticInitializer = StaticInitializer_19_NavigationViewBackButtonVisible;
+                userType.AddEnumValue("Collapsed", global::Microsoft.UI.Xaml.Controls.NavigationViewBackButtonVisible.Collapsed);
+                userType.AddEnumValue("Visible", global::Microsoft.UI.Xaml.Controls.NavigationViewBackButtonVisible.Visible);
+                userType.AddEnumValue("Auto", global::Microsoft.UI.Xaml.Controls.NavigationViewBackButtonVisible.Auto);
+                xamlType = userType;
+                break;
+
+            case 20:   //  System.Collections.Generic.IList`1<Object>
                 userType = new global::Exercice.Exercice_XamlTypeInfo.XamlUserType(this, typeName, type, null);
-                userType.StaticInitializer = StaticInitializer_19_IList;
-                userType.CollectionAdd = VectorAdd_19_IList;
+                userType.StaticInitializer = StaticInitializer_20_IList;
+                userType.CollectionAdd = VectorAdd_20_IList;
                 userType.SetIsReturnTypeStub();
                 xamlType = userType;
                 break;
 
-            case 20:   //  Microsoft.UI.Xaml.Controls.AutoSuggestBox
+            case 21:   //  Microsoft.UI.Xaml.Controls.AutoSuggestBox
                 xamlType = new global::Exercice.Exercice_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 21:   //  Double
+            case 22:   //  Double
                 xamlType = new global::Exercice.Exercice_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 22:   //  Microsoft.UI.Xaml.UIElement
+            case 23:   //  Microsoft.UI.Xaml.UIElement
                 xamlType = new global::Exercice.Exercice_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 23:   //  Microsoft.UI.Xaml.Controls.NavigationViewDisplayMode
+            case 24:   //  Microsoft.UI.Xaml.Controls.NavigationViewDisplayMode
                 userType = new global::Exercice.Exercice_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("System.Enum"));
-                userType.StaticInitializer = StaticInitializer_23_NavigationViewDisplayMode;
+                userType.StaticInitializer = StaticInitializer_24_NavigationViewDisplayMode;
                 userType.AddEnumValue("Minimal", global::Microsoft.UI.Xaml.Controls.NavigationViewDisplayMode.Minimal);
                 userType.AddEnumValue("Compact", global::Microsoft.UI.Xaml.Controls.NavigationViewDisplayMode.Compact);
                 userType.AddEnumValue("Expanded", global::Microsoft.UI.Xaml.Controls.NavigationViewDisplayMode.Expanded);
                 xamlType = userType;
                 break;
 
-            case 24:   //  Microsoft.UI.Xaml.DataTemplate
+            case 25:   //  Microsoft.UI.Xaml.DataTemplate
                 xamlType = new global::Exercice.Exercice_XamlTypeInfo.XamlSystemBaseType(typeName, type);
-                break;
-
-            case 25:   //  Microsoft.UI.Xaml.Controls.NavigationViewBackButtonVisible
-                userType = new global::Exercice.Exercice_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("System.Enum"));
-                userType.StaticInitializer = StaticInitializer_25_NavigationViewBackButtonVisible;
-                userType.AddEnumValue("Collapsed", global::Microsoft.UI.Xaml.Controls.NavigationViewBackButtonVisible.Collapsed);
-                userType.AddEnumValue("Visible", global::Microsoft.UI.Xaml.Controls.NavigationViewBackButtonVisible.Visible);
-                userType.AddEnumValue("Auto", global::Microsoft.UI.Xaml.Controls.NavigationViewBackButtonVisible.Auto);
-                xamlType = userType;
                 break;
 
             case 26:   //  Microsoft.UI.Xaml.Style
@@ -936,15 +936,15 @@ namespace Exercice.Exercice_XamlTypeInfo
             var that = (global::Microsoft.UI.Xaml.Controls.NavigationView)instance;
             that.IsSettingsVisible = (global::System.Boolean)Value;
         }
-        private object get_7_NavigationView_IsBackEnabled(object instance)
+        private object get_7_NavigationView_IsBackButtonVisible(object instance)
         {
             var that = (global::Microsoft.UI.Xaml.Controls.NavigationView)instance;
-            return that.IsBackEnabled;
+            return that.IsBackButtonVisible;
         }
-        private void set_7_NavigationView_IsBackEnabled(object instance, object Value)
+        private void set_7_NavigationView_IsBackButtonVisible(object instance, object Value)
         {
             var that = (global::Microsoft.UI.Xaml.Controls.NavigationView)instance;
-            that.IsBackEnabled = (global::System.Boolean)Value;
+            that.IsBackButtonVisible = (global::Microsoft.UI.Xaml.Controls.NavigationViewBackButtonVisible)Value;
         }
         private object get_8_NavigationView_MenuItems(object instance)
         {
@@ -1051,15 +1051,15 @@ namespace Exercice.Exercice_XamlTypeInfo
             var that = (global::Microsoft.UI.Xaml.Controls.NavigationView)instance;
             that.HeaderTemplate = (global::Microsoft.UI.Xaml.DataTemplate)Value;
         }
-        private object get_20_NavigationView_IsBackButtonVisible(object instance)
+        private object get_20_NavigationView_IsBackEnabled(object instance)
         {
             var that = (global::Microsoft.UI.Xaml.Controls.NavigationView)instance;
-            return that.IsBackButtonVisible;
+            return that.IsBackEnabled;
         }
-        private void set_20_NavigationView_IsBackButtonVisible(object instance, object Value)
+        private void set_20_NavigationView_IsBackEnabled(object instance, object Value)
         {
             var that = (global::Microsoft.UI.Xaml.Controls.NavigationView)instance;
-            that.IsBackButtonVisible = (global::Microsoft.UI.Xaml.Controls.NavigationViewBackButtonVisible)Value;
+            that.IsBackEnabled = (global::System.Boolean)Value;
         }
         private object get_21_NavigationView_IsPaneOpen(object instance)
         {
@@ -1458,12 +1458,12 @@ namespace Exercice.Exercice_XamlTypeInfo
                 xamlMember.Getter = get_6_NavigationView_IsSettingsVisible;
                 xamlMember.Setter = set_6_NavigationView_IsSettingsVisible;
                 break;
-            case "Microsoft.UI.Xaml.Controls.NavigationView.IsBackEnabled":
+            case "Microsoft.UI.Xaml.Controls.NavigationView.IsBackButtonVisible":
                 userType = (global::Exercice.Exercice_XamlTypeInfo.XamlUserType)GetXamlTypeByName("Microsoft.UI.Xaml.Controls.NavigationView");
-                xamlMember = new global::Exercice.Exercice_XamlTypeInfo.XamlMember(this, "IsBackEnabled", "Boolean");
+                xamlMember = new global::Exercice.Exercice_XamlTypeInfo.XamlMember(this, "IsBackButtonVisible", "Microsoft.UI.Xaml.Controls.NavigationViewBackButtonVisible");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_7_NavigationView_IsBackEnabled;
-                xamlMember.Setter = set_7_NavigationView_IsBackEnabled;
+                xamlMember.Getter = get_7_NavigationView_IsBackButtonVisible;
+                xamlMember.Setter = set_7_NavigationView_IsBackButtonVisible;
                 break;
             case "Microsoft.UI.Xaml.Controls.NavigationView.MenuItems":
                 userType = (global::Exercice.Exercice_XamlTypeInfo.XamlUserType)GetXamlTypeByName("Microsoft.UI.Xaml.Controls.NavigationView");
@@ -1549,12 +1549,12 @@ namespace Exercice.Exercice_XamlTypeInfo
                 xamlMember.Getter = get_19_NavigationView_HeaderTemplate;
                 xamlMember.Setter = set_19_NavigationView_HeaderTemplate;
                 break;
-            case "Microsoft.UI.Xaml.Controls.NavigationView.IsBackButtonVisible":
+            case "Microsoft.UI.Xaml.Controls.NavigationView.IsBackEnabled":
                 userType = (global::Exercice.Exercice_XamlTypeInfo.XamlUserType)GetXamlTypeByName("Microsoft.UI.Xaml.Controls.NavigationView");
-                xamlMember = new global::Exercice.Exercice_XamlTypeInfo.XamlMember(this, "IsBackButtonVisible", "Microsoft.UI.Xaml.Controls.NavigationViewBackButtonVisible");
+                xamlMember = new global::Exercice.Exercice_XamlTypeInfo.XamlMember(this, "IsBackEnabled", "Boolean");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_20_NavigationView_IsBackButtonVisible;
-                xamlMember.Setter = set_20_NavigationView_IsBackButtonVisible;
+                xamlMember.Getter = get_20_NavigationView_IsBackEnabled;
+                xamlMember.Setter = set_20_NavigationView_IsBackEnabled;
                 break;
             case "Microsoft.UI.Xaml.Controls.NavigationView.IsPaneOpen":
                 userType = (global::Exercice.Exercice_XamlTypeInfo.XamlUserType)GetXamlTypeByName("Microsoft.UI.Xaml.Controls.NavigationView");

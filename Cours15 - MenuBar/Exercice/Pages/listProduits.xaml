@@ -5,10 +5,50 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:Exercice.Pages"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:class="using:Exercice.Class"
     mc:Ignorable="d">
 
-    <Grid>
+    <StackPanel>
         <TextBlock Text="Liste des produits" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="48"/>
-    </Grid>
+        <GridView x:Name="lvProduits">
+            <GridView.ItemTemplate>
+                <DataTemplate x:DataType="class:Produit">
+                    <Grid Background="AliceBlue" >
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <TextBlock Text="{x:Bind Nom, Mode=OneWay}" Grid.ColumnSpan="2" FontSize="40"/>
+
+                        <Image Source="{x:Bind Image, Mode=OneWay}" Grid.Row="1" Width="300" HorizontalAlignment="Center"/>
+
+                        <StackPanel Grid.Row="1" Grid.Column="1" Background="WhiteSmoke" Spacing="20" Margin="20">
+
+                            <TextBlock Text="{x:Bind Prix, Mode=OneWay}" FontSize="20"/>
+                            <TextBlock Text="{x:Bind Categorie, Mode=OneWay}" FontSize="20"/>
+                            <TextBlock Text="{x:Bind Neuf, Mode=OneWay}" FontSize="20"/>
+                            <TextBlock Text="{x:Bind Prix, Mode=OneWay}" FontSize="20"/>
+
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Spacing="20">
+                                <Button x:Name="btnEdit" Click="btnEdit_Click" HorizontalAlignment="Center" Background="Gold">
+                                    <SymbolIcon Symbol="Edit" />
+                                </Button>
+                                <Button x:Name="btnDel" Click="btnDel_Click" HorizontalAlignment="Center" Background="Orange">
+                                    <SymbolIcon Symbol="Delete" />
+                                </Button>
+                            </StackPanel>
+                        </StackPanel>
+
+
+                    </Grid>
+                </DataTemplate>
+            </GridView.ItemTemplate>
+        </GridView>
+    </StackPanel>
 </Page>

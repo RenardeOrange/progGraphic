@@ -27,22 +27,10 @@ namespace Exercice
     /// </summary>
     public sealed partial class MainWindow : Window
     {
-        private ObservableCollection<Produit> _listProduits;
-        private ObservableCollection<Commande> _listCommandes;
 
         public MainWindow()
         {
             InitializeComponent();
-            _listProduits = new ObservableCollection<Produit>()
-            {
-                new Produit("Tronçonneuse", 130.22, false, "jardin", "https://www.tronconneuse-electrique.net/wp-content/uploads/2024/01/Comment-fonctionne-une-tronconneuse-electrique-Black-et-Decker-vue-eclatee-.png"),
-                new Produit("Ordinateur Portable", 299.99, true, "informatique", "https://th.bing.com/th/id/R.167666ddade74bd852dbc6520c0d9492?rik=rXVPHdta3nkJmg&pid=ImgRaw&r=0"),
-            };
-            _listCommandes = new ObservableCollection<Commande>()
-            {
-                new Commande(new DateTime(2025, 5, 1), "Alice Dupont", "alice@dupont.com", false),
-                new Commande(new DateTime(2024, 2, 25), "Bob Martin", "bob@martin.com", true),
-            };
             mainFrame.Navigate(typeof(listProduits));
         }
 
@@ -81,40 +69,16 @@ namespace Exercice
                 switch (selectedItem.Tag)
                 {
                     case "ajouterProduit":
-                        mainFrame.Navigate(typeof(ajouterProduit), new navData
-                        {
-                            listProduits = _listProduits,
-                            listCommandes = null,
-                            Produit = null,
-                            Commande = null
-                        });
+                        mainFrame.Navigate(typeof(ajouterProduit));
                         break;
                     case "listProduits":
-                        mainFrame.Navigate(typeof(listProduits), new navData
-                        {
-                            listProduits = _listProduits,
-                            listCommandes = null,
-                            Produit = null,
-                            Commande = null
-                        });
+                        mainFrame.Navigate(typeof(listProduits));
                         break;
                     case "ajouterCommande":
-                        mainFrame.Navigate(typeof(ajouterCommande), new navData
-                        {
-                            listProduits = null,
-                            listCommandes = null,
-                            Produit = null,
-                            Commande = null
-                        });
+                        mainFrame.Navigate(typeof(ajouterCommande));
                         break;
                     case "listCommandes":
-                        mainFrame.Navigate(typeof(listCommandes), new navData
-                        {
-                            listProduits = null,
-                            listCommandes = null,
-                            Produit = null,
-                            Commande = null
-                        });
+                        mainFrame.Navigate(typeof(listCommandes));
                         break;
                     default:
                         Debug.WriteLine("probleme de navigation");

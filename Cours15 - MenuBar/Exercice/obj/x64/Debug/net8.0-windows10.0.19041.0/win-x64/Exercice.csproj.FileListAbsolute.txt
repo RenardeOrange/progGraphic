@@ -239,7 +239,6 @@ C:\Users\Utilisateur\Documents\GitHub\progGraphic\Cours15 - MenuBar\Exercice\bin
 C:\Users\Utilisateur\Documents\GitHub\progGraphic\Cours15 - MenuBar\Exercice\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\hostfxr.dll
 C:\Users\Utilisateur\Documents\GitHub\progGraphic\Cours15 - MenuBar\Exercice\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\hostpolicy.dll
 C:\Users\Utilisateur\Documents\GitHub\progGraphic\Cours15 - MenuBar\Exercice\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\mscordaccore.dll
-C:\Users\Utilisateur\Documents\GitHub\progGraphic\Cours15 - MenuBar\Exercice\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\mscordaccore_amd64_amd64_8.0.1925.36514.dll
 C:\Users\Utilisateur\Documents\GitHub\progGraphic\Cours15 - MenuBar\Exercice\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\mscordbi.dll
 C:\Users\Utilisateur\Documents\GitHub\progGraphic\Cours15 - MenuBar\Exercice\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\mscorrc.dll
 C:\Users\Utilisateur\Documents\GitHub\progGraphic\Cours15 - MenuBar\Exercice\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\msquic.dll
@@ -286,3 +285,4 @@ C:\Users\Utilisateur\Documents\GitHub\progGraphic\Cours15 - MenuBar\Exercice\obj
 C:\Users\Utilisateur\Documents\GitHub\progGraphic\Cours15 - MenuBar\Exercice\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Utilisateur\Documents\GitHub\progGraphic\Cours15 - MenuBar\Exercice\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\ProjectArchitectures.txt
 C:\Users\Utilisateur\Documents\GitHub\progGraphic\Cours15 - MenuBar\Exercice\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\.winmd_cache\$Microsoft.Web.WebView2.Core.winmd_638789222360000000.json
+C:\Users\Utilisateur\Documents\GitHub\progGraphic\Cours15 - MenuBar\Exercice\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\mscordaccore_amd64_amd64_8.0.2125.47513.dll
