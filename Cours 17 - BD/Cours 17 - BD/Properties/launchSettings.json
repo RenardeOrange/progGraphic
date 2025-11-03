@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Cours 17 - BD (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Cours 17 - BD (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
