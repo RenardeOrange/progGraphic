@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Window
+    x:Class="Ex1.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Ex1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:Classes="using:Ex1.Classes"
+    mc:Ignorable="d"
+    Title="Ex1">
+
+    <Window.SystemBackdrop>
+        <MicaBackdrop />
+    </Window.SystemBackdrop>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal">
+            <Button x:ConnectionId='11' x:Name="btnAjouter" Content="Ajouter les données"                         />
+            <ComboBox x:ConnectionId='12' x:Name="cmbRecherche" SelectedIndex="0"                                                  Header="Recherche par catégorie">
+                <x:String>Tout</x:String>
+                <x:String>condo</x:String>
+                <x:String>unifamiliale</x:String>
+                <x:String>jumelé</x:String>
+            </ComboBox>
+            <TextBox x:ConnectionId='13' x:Name="tbxRecherche" Header="Recherche par ville"                                       />
+        </StackPanel>
+
+        <StackPanel Grid.Row="1">
+            <ComboBox x:ConnectionId='8' x:Name="cmbCat" SelectedIndex="0" Header="Catégorie">
+                <x:String>condo</x:String>
+                <x:String>unifamiliale</x:String>
+                <x:String>jumelé</x:String>
+            </ComboBox>
+            <NumberBox x:ConnectionId='9' x:Name="nbxPrix" Minimum="0" Header="Prix"/>
+            <TextBox x:ConnectionId='10' x:Name="tbxVille" Header="Ville"/>
+        </StackPanel>
+
+        <ListView x:ConnectionId='2' x:Name="lvListeMaisons" Grid.Row="2">
+            <ListView.ItemTemplate>
+                <DataTemplate                            >
+                    <StackPanel x:ConnectionId='4' Orientation="Vertical" Spacing="10" Background="AliceBlue" Margin="5" Padding="5">
+                        <TextBlock x:ConnectionId='5'                                        FontSize="20"/>
+                        <TextBlock x:ConnectionId='6'                                   FontSize="20"/>
+                        <TextBlock x:ConnectionId='7'                                    FontSize="20"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+</Window>
+

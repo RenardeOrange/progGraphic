@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours 17 - BD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8724F26-92CC-43B5-BD58-6ADD1E9E1C5E}|Cours 17 - BD\\Cours 17 - BD.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours 17 - bd\\cours 17 - bd\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8724F26-92CC-43B5-BD58-6ADD1E9E1C5E}|Cours 17 - BD\\Cours 17 - BD.csproj|solutionrelative:cours 17 - bd\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B601CB9-308F-417B-AF5E-5BBF0F82FC78}|Ex1\\Ex1.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours 17 - bd\\ex1\\classes\\singletonbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B601CB9-308F-417B-AF5E-5BBF0F82FC78}|Ex1\\Ex1.csproj|solutionrelative:ex1\\classes\\singletonbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8724F26-92CC-43B5-BD58-6ADD1E9E1C5E}|Cours 17 - BD\\Cours 17 - BD.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours 17 - bd\\cours 17 - bd\\classes\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8724F26-92CC-43B5-BD58-6ADD1E9E1C5E}|Cours 17 - BD\\Cours 17 - BD.csproj|solutionrelative:cours 17 - bd\\classes\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B601CB9-308F-417B-AF5E-5BBF0F82FC78}|Ex1\\Ex1.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours 17 - bd\\ex1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B601CB9-308F-417B-AF5E-5BBF0F82FC78}|Ex1\\Ex1.csproj|solutionrelative:ex1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8724F26-92CC-43B5-BD58-6ADD1E9E1C5E}|Cours 17 - BD\\Cours 17 - BD.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours 17 - bd\\cours 17 - bd\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C8724F26-92CC-43B5-BD58-6ADD1E9E1C5E}|Cours 17 - BD\\Cours 17 - BD.csproj|solutionrelative:cours 17 - bd\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{3B601CB9-308F-417B-AF5E-5BBF0F82FC78}|Ex1\\Ex1.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours 17 - bd\\ex1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3B601CB9-308F-417B-AF5E-5BBF0F82FC78}|Ex1\\Ex1.csproj|solutionrelative:ex1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,41 +26,41 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours 17 - BD\\Cours 17 - BD\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Cours 17 - BD\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours 17 - BD\\Cours 17 - BD\\MainWindow.xaml",
-              "RelativeToolTip": "Cours 17 - BD\\MainWindow.xaml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-03T18:47:45.31Z",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours 17 - BD\\Ex1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Ex1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours 17 - BD\\Ex1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Ex1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswDYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:55:57.142Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours 17 - BD\\Cours 17 - BD\\Classes\\Client.cs",
-              "RelativeDocumentMoniker": "Cours 17 - BD\\Classes\\Client.cs",
-              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours 17 - BD\\Cours 17 - BD\\Classes\\Client.cs",
-              "RelativeToolTip": "Cours 17 - BD\\Classes\\Client.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwB0AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T18:37:18.301Z",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours 17 - BD\\Ex1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Ex1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours 17 - BD\\Ex1\\MainWindow.xaml",
+              "RelativeToolTip": "Ex1\\MainWindow.xaml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-07T14:54:36.025Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours 17 - BD\\Cours 17 - BD\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Cours 17 - BD\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours 17 - BD\\Cours 17 - BD\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Cours 17 - BD\\MainWindow.xaml.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAawDcAAAANAAAAAAAAAA==",
+              "Title": "SingletonBD.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours 17 - BD\\Ex1\\Classes\\SingletonBD.cs",
+              "RelativeDocumentMoniker": "Ex1\\Classes\\SingletonBD.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours 17 - BD\\Ex1\\Classes\\SingletonBD.cs",
+              "RelativeToolTip": "Ex1\\Classes\\SingletonBD.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAwwL8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T18:33:46.305Z",
+              "WhenOpened": "2025-11-07T14:43:46.759Z",
               "EditorCaption": ""
             }
           ]

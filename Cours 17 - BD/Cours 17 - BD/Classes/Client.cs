@@ -25,7 +25,7 @@ namespace Cours_17___BD.Classes
         public string Prenom { get => prenom; set => prenom = value; }
         public string Email { get => email; set => email = value; }
 
-        public String toString()
+        public String ToString()
         {
             return $"{id} - {nom} {prenom} ({email})";
         }

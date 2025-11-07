@@ -20,12 +20,18 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
-        <StackPanel>
-            <Button x:Name="btnAfficher" Content="Afficher les données" Click="btnAfficher_Click"/>
+        <StackPanel Orientation="Horizontal">
+			<Button x:Name="btnAfficher" Content="Afficher les données" Click="btnAfficher_Click"/>
+			<Button x:Name="btnModifier" Content="Modifier les données" Click="btnModifier_Click"/>
+			<Button x:Name="btnAjouter" Content="Ajouter les données" Click="btnAjouter_Click"/>
+			<Button x:Name="btnSupprimer" Content="Supprimer les données" Click="btnSupprimer_Click"/>
+            <TextBox x:Name="tbxRecherche" Header="Recherche" TextChanged="tbxRecherche_TextChanged"/>
         </StackPanel>
 
         <StackPanel Grid.Row="1">
-            <TextBox x:Name="tbxText"/>
+            <TextBox x:Name="tbxNom" Header="nom"/>
+			<TextBox x:Name="tbxPrenom" Header="prenom"/>
+			<TextBox x:Name="tbxEmail" Header="email"/>
         </StackPanel>
 
         <ListView x:Name="lvListeClients" Grid.Row="2"/>
