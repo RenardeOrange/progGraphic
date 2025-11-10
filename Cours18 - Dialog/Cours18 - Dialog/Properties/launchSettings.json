@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Cours18 - Dialog (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Cours18 - Dialog (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

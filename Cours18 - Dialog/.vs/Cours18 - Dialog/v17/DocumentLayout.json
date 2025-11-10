@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours18 - Dialog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B15F3EC-380B-4BD2-9A73-90BB4EA3FBBC}|Cours18 - Dialog\\Cours18 - Dialog.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours18 - dialog\\cours18 - dialog\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B15F3EC-380B-4BD2-9A73-90BB4EA3FBBC}|Cours18 - Dialog\\Cours18 - Dialog.csproj|solutionrelative:cours18 - dialog\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B15F3EC-380B-4BD2-9A73-90BB4EA3FBBC}|Cours18 - Dialog\\Cours18 - Dialog.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours18 - dialog\\cours18 - dialog\\classes\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B15F3EC-380B-4BD2-9A73-90BB4EA3FBBC}|Cours18 - Dialog\\Cours18 - Dialog.csproj|solutionrelative:cours18 - dialog\\classes\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B15F3EC-380B-4BD2-9A73-90BB4EA3FBBC}|Cours18 - Dialog\\Cours18 - Dialog.csproj|c:\\users\\utilisateur\\documents\\github\\proggraphic\\cours18 - dialog\\cours18 - dialog\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5B15F3EC-380B-4BD2-9A73-90BB4EA3FBBC}|Cours18 - Dialog\\Cours18 - Dialog.csproj|solutionrelative:cours18 - dialog\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours18 - Dialog\\Cours18 - Dialog\\Classes\\Client.cs",
+              "RelativeDocumentMoniker": "Cours18 - Dialog\\Classes\\Client.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours18 - Dialog\\Cours18 - Dialog\\Classes\\Client.cs",
+              "RelativeToolTip": "Cours18 - Dialog\\Classes\\Client.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwBwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:55:06.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours18 - Dialog\\Cours18 - Dialog\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Cours18 - Dialog\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours18 - Dialog\\Cours18 - Dialog\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Cours18 - Dialog\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAwwFkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:20:54.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours18 - Dialog\\Cours18 - Dialog\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Cours18 - Dialog\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\GitHub\\progGraphic\\Cours18 - Dialog\\Cours18 - Dialog\\MainWindow.xaml",
+              "RelativeToolTip": "Cours18 - Dialog\\MainWindow.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwB0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-10T18:19:50.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
