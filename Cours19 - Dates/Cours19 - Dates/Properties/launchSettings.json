@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Cours19 - Dates (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Cours19 - Dates (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
